@@ -1,0 +1,16 @@
+.zero-margin-padding {
+    margin: 0px;
+    padding: 0px;
+}
+.profile-image {
+    display: inline-block;
+    float: right;
+    height: 64px;
+    width: 64px;
+}
+.shadow {
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.1);
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.175);
+}
